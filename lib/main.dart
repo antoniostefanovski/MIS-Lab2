@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Pokemon',
+      title: '211137 Jokes',
       initialRoute: '/',
       routes: {
         '/' : (context) => const Home(),
